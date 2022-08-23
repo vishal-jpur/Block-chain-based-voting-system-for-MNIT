@@ -1,3 +1,6 @@
+A blockchain-based E-voting system, created with my team mate Nikhil Sinha.
+
+The application is MIT-Licensed.
 ![Screenshot (2)](https://user-images.githubusercontent.com/104757823/186081151-0a7aabf7-beea-45a0-91aa-e71e40a6d2b6.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/104757823/186081153-9b0c3dd9-f781-4979-b123-73267fe27f44.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/104757823/186081155-e0353c8c-f684-4927-93a6-2412191d4f2d.png)
